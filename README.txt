@@ -5,6 +5,8 @@ You are not a villain. You are a system.
 Link to the Game: https://drive.google.com/file/d/1NBeEtNJxnN5AXSGSA2B9smNb_OoI71p0/view?usp=sharing
 Download and enjoy!!!
 
+The PDF file is the "Villain's Logic" Document (A 200-word statement).
+
 CONTROLS
   BOOT    Press ENTER to accept governance
   ACTIVE  Click green sectors to deactivate them
